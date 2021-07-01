@@ -1,6 +1,6 @@
 <a href="CONTRIBUTING.md"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <a href="LICENSE"><img alt="GitHub License MIT" src="https://img.shields.io/github/license/Crio-Bytes/Miscellaneous?style=for-the-badge&labelColor=black&logo=github"></a>
@@ -22,6 +22,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/archithdwij"><img src="https://avatars.githubusercontent.com/u/30730368?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Archithdwij</b></sub></a><br /><a href="#maintenance-archithdwij" title="Maintenance">🚧</a> <a href="https://github.com/Crio-WFH/-Miscellaneous/pulls?q=is%3Apr+reviewed-by%3Aarchithdwij" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/Crio-WFH/-Miscellaneous/commits?author=archithdwij" title="Documentation">📖</a> <a href="https://github.com/Crio-WFH/-Miscellaneous/commits?author=archithdwij" title="Code">💻</a></td>
+    <td align="center"><a href="https://akshawz.netlify.app/"><img src="https://avatars.githubusercontent.com/u/51538194?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ayush Kumar Shaw</b></sub></a><br /><a href="#maintenance-Ak-Shaw" title="Maintenance">🚧</a> <a href="https://github.com/Crio-WFH/-Miscellaneous/pulls?q=is%3Apr+reviewed-by%3AAk-Shaw" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/Crio-WFH/-Miscellaneous/commits?author=Ak-Shaw" title="Documentation">📖</a> <a href="https://github.com/Crio-WFH/-Miscellaneous/commits?author=Ak-Shaw" title="Code">💻</a></td>
   </tr>
 </table>
 
