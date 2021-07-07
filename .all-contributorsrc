@@ -66,6 +66,18 @@
         "doc",
         "code"
       ]
+    },
+    {
+      "login": "Developer-Amritanshu",
+      "name": "Amritanshu Dev Rawat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59793081?v=4",
+      "profile": "https://github.com/Developer-Amritanshu",
+      "contributions": [
+        "code",
+        "ideas",
+        "infra",
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
